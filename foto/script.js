@@ -784,7 +784,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Event listeners
   document.querySelector('#loginModal button').addEventListener('click', saveUsername);
   clickableTitle.addEventListener('click', function() {
-      window.location.href = '../main.html'; // Updated path
+      window.location.href = '../index.html'; // Updated path
   });
 });
 
